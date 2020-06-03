@@ -1,0 +1,11 @@
+th, td {
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    border: 2px solid #000;
+    row-gap: 2;
+    column-span: 3;
+    border-spacing: 2;
+    padding-block-end: 2;
+
+}

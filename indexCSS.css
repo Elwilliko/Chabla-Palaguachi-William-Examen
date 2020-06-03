@@ -1,0 +1,19 @@
+.logo{
+    float: left;
+}
+.buscar{
+    width: 60%;
+    display:inline-block;
+
+}
+.redes{
+    float: right;
+    margin-top: 34px;
+}
+input,label{
+    float: none;
+    width: 100px;
+}
+body{
+    background: tan;
+}

@@ -4,14 +4,18 @@ Se crea la base de datos de nombre parqueadero además se tiene las tablas de us
 
 Datos:
  
- 
+ ![Alt text](https://github.com/Elwilliko/Chabla-Palaguachi-William-Examen/blob/e6a839ecab7e082ae7da557772f3e0ad970d7b38/imag/foring.png "Optional title")
  
  
 
 •	Código
 Se realiza la creación de index.html.
 Se realiza un estilo de parqueadero de la UPS, con el index.css
- 
+
+  ![Alt text](https://github.com/Elwilliko/Chabla-Palaguachi-William-Examen/blob/e6a839ecab7e082ae7da557772f3e0ad970d7b38/imag/index.jpg "Optional title")
+
+  ![Alt text](https://github.com/Elwilliko/Chabla-Palaguachi-William-Examen/blob/e6a839ecab7e082ae7da557772f3e0ad970d7b38/imag/login.jpg "Optional title")
+  
 Al dar click en la imagen nos lleva a Login.html, donde llenaremos los datos
  
 Logon.php es donde se comprueba si los datos fueron ingresados correctamente
